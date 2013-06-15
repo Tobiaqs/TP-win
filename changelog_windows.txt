@@ -1,0 +1,13 @@
+=== Changelog for Inspiron Trance Philosophy Windows application ===
+
+0.4.3
+_ Temporary adjustments for DST
+
+0.4.2
+_ Fixed live tracklisting, more compatible when TFB airs the show later.
+
+0.4.1
+_ Moved the live tracklisting under the black button above the Inspiron text.
+
+0.4
+_ Added live tracklisting during the show.
